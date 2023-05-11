@@ -31,9 +31,7 @@ public class BasicQuestion extends JFrame {
         add(answerB);
         add(answerC);
         add(answerD);
-        //add(fiftyFifty);
-        //add(questionToPublic);
-        //add(phoneFriend);
+      
         add(label);
         //add(rescue);
 
@@ -45,9 +43,7 @@ public class BasicQuestion extends JFrame {
         answerB.setBounds(30, 150, 180, 20);
         answerC.setBounds(300, 100, 180, 20);
         answerD.setBounds(300, 150, 180, 20);
-        //fiftyFifty.setBounds(40, 300, 120, 20);
-        //questionToPublic.setBounds(195, 300, 120, 20);
-        //phoneFriend.setBounds(350, 300, 120, 20);
+      
 
 
         // Ustawienie tekstu
